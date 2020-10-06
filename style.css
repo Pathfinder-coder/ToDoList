@@ -1,0 +1,28 @@
+body {
+    background:#99FFCC;
+}
+
+.container {
+    max-width: 400px;
+}
+
+.todos li {
+    background: white ;
+    margin-top: 20px;
+}
+ 
+.delete {
+    cursor: pointer;
+    color: gray;
+}
+.delete {
+    text-align: right;
+}
+
+input {
+    margin-right: 10px;
+}
+
+.check {
+    margin-right: 10px;
+}
